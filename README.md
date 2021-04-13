@@ -16,9 +16,10 @@
 Follow this guide to hack your switch: https://switch.homebrew.guide
 
 Download the latest release and put it on your SD Card<br />
-Send the hekate-payload.bin payload to your Switch in RCM mode and launch the CFW
+Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW
 
 日本の方は下記リンクを参考に
+
 https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 
 ## Featuring
