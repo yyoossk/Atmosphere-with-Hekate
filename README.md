@@ -6,10 +6,11 @@
 ## Features
 
 - Hekate＆Atmosphere Only
-- HekateとAtmosphereのみ
 - No Splash screen
-- スプラッシュスクリーンは邪魔なので入れてません
 - No homebrew and plugin
+
+- HekateとAtmosphereのみ
+- スプラッシュスクリーンは邪魔なので入れてません
 - リリース早めるために自作ソフトもプラグインも何もいれていません
 
 ## How to use
@@ -19,7 +20,6 @@ Download the latest release and put it on your SD Card<br />
 Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW
 
 日本の方は下記リンクを参考に
-
 https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 
 ## Featuring
