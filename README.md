@@ -27,7 +27,7 @@ https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 | -------- | 
 | [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |
 | [Hekate](https://github.com/CTCaer/hekate) |
-
+| [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |
 
 ## Credits
-* Thanks to SciresM and CTCaer
+* Thanks to SciresM and CTCaer and WerWolv
