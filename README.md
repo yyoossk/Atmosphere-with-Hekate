@@ -28,3 +28,9 @@ https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 
 ## Credits
 * Thanks to SciresM and CTCaer and WerWolv
+
+## Contact
+https://twitter.com/Cloud0835
+
+## My Site
+https://yyoossk.blogspot.com/search/label/
