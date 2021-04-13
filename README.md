@@ -1,6 +1,8 @@
 ## Features
 
 - Hekate＆Atmosphere Only
+- No Splash screen
+- No homebrew and plugin
 
 ## How to use
 Follow this guide to hack your switch: https://switch.homebrew.guide
