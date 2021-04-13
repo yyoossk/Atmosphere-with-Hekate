@@ -1,3 +1,7 @@
+
+
+![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
+
 ## Features
 
 - Hekate＆Atmosphere Only
