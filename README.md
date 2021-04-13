@@ -10,6 +10,7 @@
 - No homebrew and plugin
 
 
+
 - HekateとAtmosphereのみ
 - スプラッシュスクリーンは邪魔なので入れてません
 - リリース早めるために自作ソフトもプラグインも何もいれていません
