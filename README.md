@@ -5,15 +5,9 @@
 
 ## Features
 
-- Hekate＆Atmosphere Only
-- No Splash screen
-- No homebrew and plugin
-
-
-
-- HekateとAtmosphereのみ
-- スプラッシュスクリーンは邪魔なので入れてません
-- リリース早めるために自作ソフトもプラグインも何もいれていません
+- Hekate＆Atmosphere Only(HekateとAtmosphereのみ)
+- No Splash screen(スプラッシュスクリーンは邪魔なので入れてません)
+- No homebrew and plugin(リリース早めるために自作ソフトもプラグインも何もいれていません)
 
 ## How to use
 Follow this guide to hack your switch: https://switch.homebrew.guide
