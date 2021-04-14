@@ -1,4 +1,5 @@
-<img src="0.bmp" align="center" width="80%" />
+![Banner](img/banner.png?raw=true)
+=====
 <img src="assets/1.jpg" align="center" width="80%" />
 <img src="assets/2.jpg" align="center" width="80%" />
 <img src="assets/3.jpg" align="center" width="80%" />
