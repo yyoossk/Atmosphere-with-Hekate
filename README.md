@@ -1,6 +1,7 @@
 <img src="0.bmp" align="center" width="80%" />
 <img src="1.jpg" align="center" width="80%" />
 <img src="2.jpg" align="center" width="80%" />
+<img src="3.jpg" align="center" width="80%" />
 
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
