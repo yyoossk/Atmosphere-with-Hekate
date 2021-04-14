@@ -26,9 +26,10 @@ https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 | [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |
 | [Hekate](https://github.com/CTCaer/hekate) |
 | [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |
+| [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
 
 ## Credits
-* Thanks to SciresM and CTCaer and WerWolv
+* Thanks to SciresM and CTCaer and WerWolv and HamletDuFromage
 
 ## Contact
 https://twitter.com/Cloud0835
