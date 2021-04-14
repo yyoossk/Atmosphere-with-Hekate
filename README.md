@@ -9,7 +9,7 @@
 
 - Hekate＆Atmosphere Only(HekateとAtmosphereのみ)
 - No Splash screen(スプラッシュスクリーンは邪魔なので入れてません)
-- No homebrew and plugin(リリース早めるために自作ソフトもプラグインも何もいれていません)
+- No homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
 - Added hbm color config(hbm用のカラー設定集)
 
 ## How to use
@@ -29,9 +29,10 @@ https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 | [Hekate](https://github.com/CTCaer/hekate) |
 | [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |
 | [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
+| [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) |
 
 ## Credits
-* Thanks to SciresM and CTCaer and WerWolv and HamletDuFromage
+* Thanks to SciresM and CTCaer and WerWolv and HamletDuFromage and cathery
 
 ## Contact
 https://twitter.com/Cloud0835
