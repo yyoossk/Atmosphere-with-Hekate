@@ -28,7 +28,7 @@ or AIO-switch-updater<br />
 またはAIO-switch-updaterで導入してください<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
-## Featuring
+## WHAT'S INCLUDED?
 
 | Software |
 | -------- | 
