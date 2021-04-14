@@ -9,6 +9,7 @@
 - Hekate＆Atmosphere Only(HekateとAtmosphereのみ)
 - No Splash screen(スプラッシュスクリーンは邪魔なので入れてません)
 - No homebrew and plugin(リリース早めるために自作ソフトもプラグインも何もいれていません)
+- Added hbm color config(hbm用のカラー設定集)
 
 ## How to use
 Follow this guide to hack your switch: https://switch.homebrew.guide
