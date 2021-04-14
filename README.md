@@ -29,7 +29,7 @@ https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 | [Hekate](https://github.com/CTCaer/hekate) |
 | [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |
 | [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
-| [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) |
+| [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) |
 
 ## Credits
 * Thanks to SciresM and CTCaer and WerWolv and HamletDuFromage and cathery
