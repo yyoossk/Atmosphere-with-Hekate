@@ -37,7 +37,7 @@ https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 | [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) |<br />
 
 ## Credits
-*Thanks to <br />
+Thanks to <br />
 * SciresM<br />
 * CTCaer<br />
 * WerWolv<br />
