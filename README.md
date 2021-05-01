@@ -14,6 +14,9 @@
 - Added hbm color config(hbm用のカラー設定集)
 - Default Cheat OFF(チートをデフォルトでOFFに設定しています)
 
+## Download
+https://github.com/yyoossk/Atmosphere-with-Hekate/releases
+
 ## How to use
 Follow this guide to hack your switch: https://switch.homebrew.guide
 
