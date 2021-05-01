@@ -31,11 +31,11 @@ or AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
 ## WHAT'S INCLUDED?
-| [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |
-| [Hekate](https://github.com/CTCaer/hekate) |
-| [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |
-| [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |
-| [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) |
+| [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |<br />
+| [Hekate](https://github.com/CTCaer/hekate) |<br />
+| [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |<br />
+| [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |<br />
+| [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) |<br />
 
 ## Credits
 * Thanks to SciresM and CTCaer and WerWolv and HamletDuFromage and cathery
