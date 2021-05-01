@@ -7,7 +7,6 @@
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 ## Features
-- Hekate＆Atmosphere Only(HekateとAtmosphereのみ)
 - No Original Splash screen(オリジナルのスプラッシュスクリーンは入れてません)
 - Included only the minimum amount of homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
 - Added hbm color config(hbm用のカラー設定集)
