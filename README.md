@@ -10,7 +10,7 @@
 
 - Hekate＆Atmosphere Only(HekateとAtmosphereのみ)
 - No Splash screen(スプラッシュスクリーンは邪魔なので入れてません)
-- No homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
+- Included only the minimum amount of homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
 - Added hbm color config(hbm用のカラー設定集)
 - Default Cheat OFF(チートをデフォルトでOFFに設定しています)
 
