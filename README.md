@@ -7,7 +7,6 @@
 ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
 
 ## Features
-
 - Hekate＆Atmosphere Only(HekateとAtmosphereのみ)
 - No Original Splash screen(オリジナルのスプラッシュスクリーンは入れてません)
 - Included only the minimum amount of homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
@@ -26,17 +25,12 @@ Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW
 日本の方はこちらへ
 https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 
-Please install sigpatch yourself<br />
-sigpatchは下記リンクのものを入れてください<br />
+Please install sigpatch yourself(sigpatchは下記リンクのものを入れてください)<br />
 https://github.com/ITotalJustice/patches/releases<br />
-or AIO-switch-updater<br />
-またはAIO-switch-updaterで導入してください<br />
+or AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
 ## WHAT'S INCLUDED?
-
-| Software |
-| -------- | 
 | [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |
 | [Hekate](https://github.com/CTCaer/hekate) |
 | [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |
