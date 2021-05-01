@@ -12,6 +12,7 @@
 - No Splash screen(スプラッシュスクリーンは邪魔なので入れてません)
 - No homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
 - Added hbm color config(hbm用のカラー設定集)
+- Default Cheat OFF(チートをデフォルトでOFFに設定しています)
 
 ## How to use
 Follow this guide to hack your switch: https://switch.homebrew.guide
