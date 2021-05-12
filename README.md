@@ -8,7 +8,7 @@
 
 ## Features
 - No Original Splash screen(オリジナルのスプラッシュスクリーンは入れてません)
-- Included only the minimum amount of homebrew and plugin(リリース早めるために自作ソフトもプラグインも最低限のものしか入れていません)
+- No homebrew and plugin(リリース早めるために自作ソフトもプラグインも入れていません)
 - Added hbm color config(hbm用のカラー設定集)
 - Default Cheat OFF(チートをデフォルトでOFFに設定しています)
 
@@ -32,17 +32,11 @@ https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 ## WHAT'S INCLUDED?
 | [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |<br />
 | [Hekate](https://github.com/CTCaer/hekate) |<br />
-| [Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) |<br />
-| [aio-switch-updater](https://github.com/HamletDuFromage/aio-switch-updater) |<br />
-| [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light) |<br />
 
 ## Credits
 Thanks to <br />
 * SciresM<br />
 * CTCaer<br />
-* WerWolv<br />
-* HamletDuFromage<br />
-* cathery<br />
 
 ## Contact
 https://twitter.com/Cloud0835
