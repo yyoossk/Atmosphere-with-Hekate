@@ -25,6 +25,7 @@ Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW
 https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 
 Please install sigpatch yourself(sigpatchは下記リンクのものを入れてください)<br />
+https://github.com/THZoria/patches/releases<br />
 https://github.com/ITotalJustice/patches/releases<br />
 or AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
