@@ -11,6 +11,8 @@
 - No homebrew and plugin(リリース早めるために自作ソフトもプラグインも入れていません)
 - Added hbm color config(hbm用のカラー設定集)
 - Default Cheat OFF(チートをデフォルトでOFFに設定しています)
+- Default incongnito(CIDをデフォルトで隠すように設定)
+- Default 90dns(90dnsをデフォルトで有効)
 
 ## Download
 https://github.com/yyoossk/Atmosphere-with-Hekate/releases
