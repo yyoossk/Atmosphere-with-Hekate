@@ -29,7 +29,7 @@ https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 Please install sigpatch yourself(sigpatchは下記リンクのものを入れてください)<br />
 If you want to install sigpatch, please install it first, and then overwrite atmosphere-with-hekate.(sigpatchを導入するなら、先にそちらを導入した後でatmosphere-with-hekateを上書きコピーしてください)<br />
 https://github.com/ITotalJustice/patches/releases<br />
-https://github.com/THZoria/patches/releases<br />
+https://github.com/borntohonk/SigPatches/releases<br />
 or Download witch AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
