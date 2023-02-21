@@ -22,17 +22,15 @@ https://github.com/yyoossk/Atmosphere-with-Hekate/releases
 Follow this guide to hack your switch: https://switch.homebrew.guide
 
 Download the latest release and put it on your SD Card<br />
-Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW<br />
+Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW
 
 日本の方はこちらへ
-https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html<br />
+https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
 
 sigpatchは入れておりません<br />
 AtmoPack-Vanillaに含まれているので、先にAtmoPack-VanillaをインストールしてからAtmosphere-with-Hekateを上書きすると、設定やhbmのカスタムカラーが反映されます。<br />
 SIGPATCH is not included.<br />
 It is included in AtmoPack-Vanilla, so if you install AtmoPack-Vanilla first and then overwrite Atmosphere-with-Hekate, the settings and hbm custom colors will be reflected.<br />
-https://github.com/THZoria/AtmoPack-Vanilla/releases<br />
-
 or Download witch AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
@@ -44,6 +42,7 @@ https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 Thanks to <br />
 * SciresM<br />
 * CTCaer<br />
+* THZoria<br />
 
 ## Contact
 https://twitter.com/Cloud0835
