@@ -31,6 +31,8 @@ sigpatchは入れておりません<br />
 AtmoPack-Vanillaに含まれているので、先にAtmoPack-VanillaをインストールしてからAtmosphere-with-Hekateを上書きすると、設定やhbmのカスタムカラーが反映されます。<br />
 SIGPATCH is not included.<br />
 It is included in AtmoPack-Vanilla, so if you install AtmoPack-Vanilla first and then overwrite Atmosphere-with-Hekate, the settings and hbm custom colors will be reflected.<br />
+https://github.com/THZoria/AtmoPack-Vanilla/releases<br />
+
 or Download witch AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
