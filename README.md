@@ -8,7 +8,7 @@
 
 ## Features
 - No Original Splash screen(オリジナルのスプラッシュスクリーンは入れてません)
-- No homebrew and plugin(リリース早めるために自作ソフトもプラグインも入れていません)
+- No homebrew and plugin(自作ソフトもプラグインも入れていません)
 - SysNAND EmuNAND Stock(Sysnand)
 - Added hbm color config(hbm用のカラー設定集)
 - Default Cheat OFF(チートをデフォルトでOFFに設定しています)
@@ -22,9 +22,6 @@ https://github.com/yyoossk/Atmosphere-with-Hekate/releases
 
 ## How to use
 Follow this guide to hack your switch: https://switch.homebrew.guide
-
-Download the latest release and put it on your SD Card<br />
-Send the hekate-payload.bin to your Switch in RCM mode and launch the CFW
 
 日本の方はこちらへ
 https://yyoossk.blogspot.com/2021/04/hekateatmosphereatmosphere-with-hekate.html
