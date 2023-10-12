@@ -38,10 +38,6 @@ https://github.com/THZoria/AtmoPack-Vanilla/releases<br />
 or Download witch AIO-switch-updater(またはAIO-switch-updaterで導入してください)<br />
 https://github.com/HamletDuFromage/AIO-switch-updater/releases/<br />
 
-## WHAT'S INCLUDED?
-| [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) |<br />
-| [Hekate](https://github.com/CTCaer/hekate) |<br />
-
 ## Credits
 Thanks to <br />
 * SciresM<br />
