@@ -9,11 +9,13 @@
 ## Features
 - No Original Splash screen(オリジナルのスプラッシュスクリーンは入れてません)
 - No homebrew and plugin(リリース早めるために自作ソフトもプラグインも入れていません)
+- SysNAND EmuNAND Stock(Sysnand)
 - Added hbm color config(hbm用のカラー設定集)
 - Default Cheat OFF(チートをデフォルトでOFFに設定しています)
 - Default incongnito(CIDをデフォルトで隠すように設定)
 - Default 90dns(90dnsをデフォルトで有効)
 - Default usb3.0(usb3.0をデフォルトで有効)
+- Set to conserve battery power in standby mode(スタンバイモード時のバッテリー消費を抑えるよう設定)
 
 ## Download
 https://github.com/yyoossk/Atmosphere-with-Hekate/releases
