@@ -16,6 +16,7 @@
 - Default 90dns(90dnsをデフォルトで有効)
 - Default usb3.0(usb3.0をデフォルトで有効)
 - Set to conserve battery power in standby mode(スタンバイモード時のバッテリー消費を抑えるよう設定)
+- can start games outside of airplane mode(機内モードでしか起動しないゲームをwifi環境でも起動できるように設定を変更)
 
 ## Download
 https://github.com/yyoossk/Atmosphere-with-Hekate/releases
